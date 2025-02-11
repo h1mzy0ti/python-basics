@@ -33,3 +33,4 @@ print(el_list2)
 del el_list2[-1]
 print(el_list2)
 
+
